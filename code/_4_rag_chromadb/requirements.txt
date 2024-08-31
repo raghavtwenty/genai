@@ -1,0 +1,7 @@
+unstructured
+unstructured[all-docs]
+langchain
+pdfplumber
+chromadb
+langchain-text-splitters
+langchain-ollama
